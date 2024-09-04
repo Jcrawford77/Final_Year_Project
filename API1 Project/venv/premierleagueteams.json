@@ -1,0 +1,203 @@
+[
+  {
+    "Team": "Man City",
+    "Games Played": 22,
+    "Goal Difference": 41,
+    "xG": 47.2,
+    "xGA": 13.7,
+    "Net xG": 33.5,
+    "xG Points": 62,
+    "Points": 56
+  },
+  {
+    "Team": "Liverpool",
+    "Games Played": 21,
+    "Goal Difference": 37,
+    "xG": 54.5,
+    "xGA": 19.5,
+    "Net xG": 35,
+    "xG Points": 51,
+    "Points": 45
+  },
+  {
+    "Team": "Chelsea",
+    "Games Played": 22,
+    "Goal Difference": 28,
+    "xG": 40.9,
+    "xGA": 21.7,
+    "Net xG": 19.2,
+    "xG Points": 44,
+    "Points": 43
+  },
+  {
+    "Team": "West Ham",
+    "Games Played": 22,
+    "Goal Difference": 11,
+    "xG": 35.7,
+    "xGA": 28.6,
+    "Net xG": 7.1,
+    "xG Points": 40,
+    "Points": 37
+  },
+  {
+    "Team": "Man United",
+    "Games Played": 20,
+    "Goal Difference": 3,
+    "xG": 28.8,
+    "xGA": 27.5,
+    "Net xG": 1.3,
+    "xG Points": 36,
+    "Points": 32
+  },
+  {
+    "Team": "Arsenal",
+    "Games Played": 20,
+    "Goal Difference": 8,
+    "xG": 26.6,
+    "xGA": 27.7,
+    "Net xG": -1.1,
+    "xG Points": 35,
+    "Points": 35
+  },
+  {
+    "Team": "Brighton",
+    "Games Played": 20,
+    "Goal Difference": 0,
+    "xG": 26.5,
+    "xGA": 23,
+    "Net xG": 3.5,
+    "xG Points": 29,
+    "Points": 28
+  },
+  {
+    "Team": "Brentford",
+    "Games Played": 21,
+    "Goal Difference": -9,
+    "xG": 27,
+    "xGA": 25.5,
+    "Net xG": 1.5,
+    "xG Points": 29,
+    "Points": 23
+  },
+  {
+    "Team": "Wolves",
+    "Games Played": 20,
+    "Goal Difference": 2,
+    "xG": 22,
+    "xGA": 24,
+    "Net xG": -2,
+    "xG Points": 26,
+    "Points": 31
+  },
+  {
+    "Team": "Southampton",
+    "Games Played": 21,
+    "Goal Difference": -8,
+    "xG": 27.3,
+    "xGA": 31.5,
+    "Net xG": -4.2,
+    "xG Points": 25,
+    "Points": 24
+  },
+  {
+    "Team": "Crystal Palace",
+    "Games Played": 21,
+    "Goal Difference": -1,
+    "xG": 25.1,
+    "xGA": 26.5,
+    "Net xG": -1.4,
+    "xG Points": 24,
+    "Points": 24
+  },
+  {
+    "Team": "Tottenham",
+    "Games Played": 18,
+    "Goal Difference": 3,
+    "xG": 23.9,
+    "xGA": 22.4,
+    "Net xG": 1.5,
+    "xG Points": 23,
+    "Points": 33
+  },
+  {
+    "Team": "Everton",
+    "Games Played": 19,
+    "Goal Difference": -10,
+    "xG": 23.7,
+    "xGA": 30,
+    "Net xG": -6.3,
+    "xG Points": 23,
+    "Points": 19
+  },
+  {
+    "Team": "Aston Villa",
+    "Games Played": 20,
+    "Goal Difference": -5,
+    "xG": 20.2,
+    "xGA": 26.6,
+    "Net xG": -6.4,
+    "xG Points": 22,
+    "Points": 23
+  },
+  {
+    "Team": "Leeds",
+    "Games Played": 20,
+    "Goal Difference": -15,
+    "xG": 24.1,
+    "xGA": 34.5,
+    "Net xG": -10.4,
+    "xG Points": 17,
+    "Points": 22
+  },
+  {
+    "Team": "Watford",
+    "Games Played": 19,
+    "Goal Difference": -14,
+    "xG": 21.8,
+    "xGA": 34.2,
+    "Net xG": -12.4,
+    "xG Points": 16,
+    "Points": 14
+  },
+  {
+    "Team": "Leicester",
+    "Games Played": 18,
+    "Goal Difference": -2,
+    "xG": 25.3,
+    "xGA": 33.4,
+    "Net xG": -8.1,
+    "xG Points": 15,
+    "Points": 25
+  },
+  {
+    "Team": "Burnley",
+    "Games Played": 17,
+    "Goal Difference": -11,
+    "xG": 17.4,
+    "xGA": 27.8,
+    "Net xG": -10.4,
+    "xG Points": 12,
+    "Points": 11
+  },
+  {
+    "Team": "Norwich",
+    "Games Played": 21,
+    "Goal Difference": -35,
+    "xG": 15.2,
+    "xGA": 36.3,
+    "Net xG": -21.1,
+    "xG Points": 11,
+    "Points": 13
+  },
+  {
+    "Team": "Newcastle",
+    "Games Played": 20,
+    "Goal Difference": -23,
+    "xG": 18.1,
+    "xGA": 36.9,
+    "Net xG": -18.8,
+    "xG Points": 10,
+    "Points": 12
+  }
+
+]
